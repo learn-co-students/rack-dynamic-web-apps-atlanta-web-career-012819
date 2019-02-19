@@ -1,5 +1,6 @@
 # Dynamic Web Apps with Rack
 
+
 ## Objectives
 
 1. Translate a command line Ruby app to a dynamic web app
